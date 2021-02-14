@@ -48,3 +48,5 @@ ws://mre-playsound.herokuapp.com (instructions at https://mre-playsound.herokuap
 ws://video.norybiak.com
 ws://audio.norybiak.com 
 ws://boombox.norybiak.com
+
+5 other mre (move dog/female/tank, bowling and shoot gun with sound) are found in my world https://account.altvr.com/worlds/1285872370589893074/spaces/1289977676316016651 
